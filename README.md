@@ -10,23 +10,15 @@ The chatbot talks to people about what they might be feeling and tries to provid
 
 ### ✅ First I Import libraries
 
-### ✅Understand the data
+### ✅take user input
 
-### ✅Create a Correlation and visualize it
+### ✅Define Keywords and Responses
 
-### ✅Test Different Models and find the best model out of it
+### ✅Define Functions for undertsanding users input
 
-### ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
+### ✅Generating a response according to input
 
-
-
-
-- [x] SVM --> 0.10681818181818181
-- [x] Logistic Regression --> 0.9522727272727273
-- [x] RF --> 0.9840909090909091
-- [x] XGBoost --> 0.9931818181818182
-
-### ✅Save the model
+### ✅Save the model and integrate with Frontend
 
 
 # What I learned!
@@ -35,13 +27,9 @@ The chatbot talks to people about what they might be feeling and tries to provid
 
 ✅Emotional Science: I likely gained a deeper understanding of the various emotions that we might feel on a daily basis and how they could possibly lead to something more serious if we do not address it.
 
-✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict crop yields and make recommendations for farmers.
+✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict user respinses and make recommendations for improvement
 
-✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data, including historical crop yield data and soil data, to train our machine learning models.
-
-✅Agricultural Trends: I likely gained insight into current trends in agriculture and the challenges facing farmers, such as the need for sustainable and efficient crop production.
-
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as soil science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
+✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data, including user emotions.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a mental health chatbot is a challenging and rewarding experience that requires a combination of technical expertise and psychological knowledge.
