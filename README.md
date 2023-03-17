@@ -50,8 +50,11 @@ Overall, building a mental health chatbot is a challenging and rewarding experie
 
 # Contributors
 https://github.com/navyadua
+
 https://github.com/Priyal1101
+
 https://github.com/samyakjain1010
+
 https://github.com/Prathampatel12
 
 # Tools Used
