@@ -49,10 +49,10 @@ Overall, building a mental health chatbot is a challenging and rewarding experie
 ![image](https://user-images.githubusercontent.com/91384754/225825988-9dc194e6-cb0b-4916-b877-57ecf49305fb.png)
 
 # Contributors
-[![image](https://user-images.githubusercontent.com/91384754/225827750-5067194f-ac85-43de-8b22-b88d8e8aba95.png)](https://github.com/navyadua =25x25)
-[![image](https://user-images.githubusercontent.com/91384754/225827785-042953b8-ca57-4acd-9cff-4ba183fcde46.png)](https://github.com/Priyal1101 =25x25)
-[![image](https://user-images.githubusercontent.com/91384754/225827818-ea25b1fa-1ba5-42f8-8af8-772fc1a0e203.png)](https://github.com/samyakjain1010 =25x25)
-[![image](https://user-images.githubusercontent.com/91384754/225827858-91ccdf28-edf0-4827-bbd0-4f959d6797ee.png)](https://github.com/Prathampatel12 =25x25)
+Navya Dua(https://github.com/navyadua)
+Priyal Jhunjhunwala(https://github.com/Priyal1101)
+Samyak Jain(https://github.com/samyakjain1010)
+Pratham Patel(https://github.com/Prathampatel12)
 
 # Tools Used
 ![image](https://user-images.githubusercontent.com/91384754/225823220-6bf01148-0591-46ee-9204-9fac15a82028.png)
