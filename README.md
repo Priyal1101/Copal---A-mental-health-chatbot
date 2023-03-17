@@ -48,9 +48,17 @@ Overall, building a mental health chatbot is a challenging and rewarding experie
 
 The Intel(R) Extension for Scikit-learn* is a library provided by Intel as part of the Intel oneAPI toolkit. It provides optimized implementations of certain Scikit-learn algorithms using Intel hardware acceleration, which can result in faster and more efficient computation on Intel architectures.
 
-After the patch_sklearn function is called and the Intel(R) Extension for Scikit-learn* is enabled, the TfidfVectorizer class is imported from Scikit-learn's feature_extraction.text module. The TfidfVectorizer class is a transformer that is used to convert a collection of text documents into a matrix of TF-IDF (Term Frequency-Inverse Document Frequency) features. These features can then be used as input to a machine learning algorithm.
+## Libraries Used
 
-Overall, the use of the Intel(R) Extension for Scikit-learn* in combination with the TfidfVectorizer class can result in faster and more efficient computation of TF-IDF features on Intel architectures.
+✅SYCL/DPC++: This library is used to optimize performance and parallelize computation in the chatbot, which helps in faster response times and more accurate results.
+
+✅oneMKL: This library provides highly optimized math functions, which is useful in implementing algorithms that involve computations such as matrix multiplication and convolution, which are often used in natural language processing tasks.
+
+✅oneDNN: This library provides highly optimized deep learning primitives, which is useful in implementing deep learning models for the chatbot.
+
+✅oneTBB: This library provides a task-based parallelism framework, which is used to parallelize computations in the chatbot, leading to faster response times and more efficient use of system resources.
+
+✅oneDAL: This library provides highly optimized data analytics primitives, which could be useful in implementing algorithms for data preprocessing and analysis in the chatbot.
 
 ![image](https://user-images.githubusercontent.com/91384754/225829797-f736c6bf-0301-4512-8cdf-deeb3f3b1a3a.png)
 
