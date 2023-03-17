@@ -44,13 +44,15 @@ These are just a few examples of the knowledge and skills that i likely gained w
 Overall, building a mental health chatbot is a challenging and rewarding experience that requires a combination of technical expertise and psychological knowledge.
 
 # Use of Intel OneAPI
-![image](https://user-images.githubusercontent.com/91384754/225829797-f736c6bf-0301-4512-8cdf-deeb3f3b1a3a.png)
+![image](https://user-images.githubusercontent.com/91384754/225832421-df1060a4-f0d0-4ff8-a83f-660a7e2e0175.png)
 
 The Intel(R) Extension for Scikit-learn* is a library provided by Intel as part of the Intel oneAPI toolkit. It provides optimized implementations of certain Scikit-learn algorithms using Intel hardware acceleration, which can result in faster and more efficient computation on Intel architectures.
 
 After the patch_sklearn function is called and the Intel(R) Extension for Scikit-learn* is enabled, the TfidfVectorizer class is imported from Scikit-learn's feature_extraction.text module. The TfidfVectorizer class is a transformer that is used to convert a collection of text documents into a matrix of TF-IDF (Term Frequency-Inverse Document Frequency) features. These features can then be used as input to a machine learning algorithm.
 
 Overall, the use of the Intel(R) Extension for Scikit-learn* in combination with the TfidfVectorizer class can result in faster and more efficient computation of TF-IDF features on Intel architectures.
+
+![image](https://user-images.githubusercontent.com/91384754/225829797-f736c6bf-0301-4512-8cdf-deeb3f3b1a3a.png)
 
 # Implementation
 ![image](https://user-images.githubusercontent.com/91384754/225825988-9dc194e6-cb0b-4916-b877-57ecf49305fb.png)
