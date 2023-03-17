@@ -13,7 +13,7 @@ The need for a mental health chatbot that can assist users with their mental hea
 
 The chatbot talks to people about what they might be feeling and tries to provide them with a base analysis of their conditions and tries to provide them solutions that they can follow to be able to deal with their symptoms and seek professional help when they can.
 
-# How I Built It!![Uploading image.png…](
+# How I Built It!![image](https://user-images.githubusercontent.com/91384754/225824434-0688fac8-2e5f-4f23-b8d1-2576d5b64788.png)
 
 
 ### ✅ First I Import libraries
