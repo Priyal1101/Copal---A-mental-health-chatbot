@@ -1,5 +1,6 @@
 # Copal- A Mental Health Chatbot ![image](https://user-images.githubusercontent.com/91384754/225904068-5b4b8da7-d315-467f-b1bb-e6fae9f13ba9.png)
 
+<img src="https://socialify.git.ci/Priyal1101/Copal---A-mental-health-chatbot/image?name=1&theme=Light">
 
 ![Issues](https://img.shields.io/github/issues/Priyal1101/Copal---A-mental-health-chatbot)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Priyal1101/Copal---A-mental-health-chatbot)
