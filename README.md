@@ -6,7 +6,7 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/Priyal1101/Copal---A-mental-health-chatbot)
 ![Forks](https://img.shields.io/github/forks/Priyal1101/Copal---A-mental-health-chatbot)
 ![Stars](https://img.shields.io/github/stars/Priyal1101/Copal---A-mental-health-chatbot)
-[![License](https://img.shields.io/github/license/aresgodd/Diabeto)](https://github.com/Priyal1101/Copal---A-mental-health-chatbot)
+[![License](https://img.shields.io/github/license/Priyal1101/Copal---A-mental-health-chatbot)](https://github.com/Priyal1101/Copal---A-mental-health-chatbot)
 
 
 Mental health is a vital part of our society, and the need for accessible mental health resources has never been greater. Copal, a mental health chatbot created using Intel One API, provides a safe, non-judgmental space for individuals to seek help and access mental health resources. By using advanced algorithms, deep learning models, and optimized performance and parallelized computation, Copal aims to bridge the gap between those in need and the resources available to them. This chatbot is an effort to help individuals dealing with mental health issues and substance use disorders, which affect more than 13% of the world's population, according to a research performed by the World Health Organization (WHO).
